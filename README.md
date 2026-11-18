@@ -1,4 +1,11 @@
 # Experiment--02-Experiment-1-8086-Architecture-and-Register-Operations
+
+## DATE: 17/11/2026
+## NAME: Arnav Sharma
+## ROLL NUMBER: RA2511030010323
+## DEPARTMENT: Networking and Communications (NWC)
+
+---
  
 ## Aim
 
